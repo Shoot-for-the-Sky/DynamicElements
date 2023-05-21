@@ -103,6 +103,9 @@ The game's safe zones were social hubs for the player to relax and socialize in,
 
 People who had enough of fighting for one day could gather around the town and have fun conversations, some would engage in PvP combat and other even role played among themsevles.
 
+![party](https://github.com/Shoot-for-the-Sky/DynamicElements/assets/74679553/8efd1925-7c7a-496b-9422-e1bd14eab8fb)
+
+
 ## Second part- FOG Of war Monopoly
 
 We all know the famous game monopoly. The game is a board game where you can see the entire board and observe other player's actions and movements.
