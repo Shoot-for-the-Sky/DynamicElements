@@ -16,11 +16,12 @@ Dragonica as many other MMORPG features an equipment system, which allows the pl
 The equipment system (among other things) allows the game to create balance, as the weapon will contribute the most points to your attack.
 
 * Weapons- each class has a unique weapon, with different attack values. With this in mind the developers can control the balance of the different classes, for example a thief will have high attack points and low health, but a warrior will have high health and low attack.
-![weapon](https://github.com/Shoot-for-the-Sky/DynamicElements/assets/74679553/11b1aaec-5963-462e-b42c-d29fcc0ada67)
 
     This way the game gives each class a different feelings, so every player can find a class that fits his playstyle. Some like high risk high reward gameplay, so a thief will be a good choice. Some like a more forgiving class such as a warrior.
 
     If we were to change the weapons attack value we would have to balance the healthpoints of other charcters among other features, otherwise it would shift the classes playstyle and might create an imbalanced game,.
+    
+    ![weapon](https://github.com/Shoot-for-the-Sky/DynamicElements/assets/74679553/11b1aaec-5963-462e-b42c-d29fcc0ada67)
 
 * Poitions- Multiple shops are spread around the world where the player can buy multiple goods and potions are among them. Using poitions the player is able to replenish health, the more expensive the poition the more health it gives.
 
@@ -38,11 +39,14 @@ The shops are located mainly inside big cities of the game, which are safe zones
     Should the vendors be moved around the game world, those social hubs might not form as other than the safe zones, players must keep playing otherwise they will be killed by monsters.
 
 * Boss monsters- Dragonica has many dungeons around it's world, where a boss resides at the end of every one of them. The player most defeat a large amount of monsters just to reach the final boss room. The bosses are located at the end of each dungeon to create a linear increase in difficulty.
+
   ![boss](https://github.com/Shoot-for-the-Sky/DynamicElements/assets/74679553/2581d0e0-5e7a-4a6c-a699-eb8257104806)
 
     If the boss monsters will be moved to the beggining of a dungeon it could ruin the feeling of the story, as the player most progress through the dungeon before reaching it.
 
 * Loot boxes- At the end of every dungeon there are loot boxes to be collected, giving the player his reward for clearing it. Those are the main incentive to beat the boss room. If the loot boxes will be moved to the beggining of the dungeon, the player will have no reason to keep exploring and could just collect them and leave the dungeon.
+
+
 ![reward](https://github.com/Shoot-for-the-Sky/DynamicElements/assets/74679553/1ec31e09-a42b-49e1-bb13-b2cbc696a0b2)
 
 
